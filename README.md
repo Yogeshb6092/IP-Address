@@ -1,2 +1,2 @@
 # IP-Address
-IP address finding using python 
+IP address finding using python socket programming
